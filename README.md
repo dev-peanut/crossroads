@@ -16,7 +16,7 @@
 
 
 <h2>4. 퍼블리싱 담당 업무</h2>
-<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233542225-01a05e99-5e48-4c28-884a-7b32aa7537f9.png" style = "width: 80%; height : 45%">
+<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233548726-d0fadd93-02f5-4472-a0de-16ae1ef677e5.png" style = "width: 80%; height : 45%">
 
 4-1. 관리자페이지
   - 관리자페이지 홈
@@ -31,7 +31,7 @@
   - 메인페이지
   
 <h2>5. 백엔드 담당 업무</h2>
-<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233542221-83e3cc6c-dec1-48dd-983c-1e7ff60bde4d.png" style = "width: 80%; height : 45%">
+<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233548768-1ae66af4-e59d-4949-bf05-44cca7e563b2.png" style = "width: 80%; height : 45%">
 
 5-1. 마이페이지 - 초보자 회원
   - 마이페이지 회원정보 조회(이름, 이메일, 전화번호)
