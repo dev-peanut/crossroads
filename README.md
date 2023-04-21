@@ -1,18 +1,18 @@
-<h1>초보자 운전연수 프로젝트 - ''</h1>
+<h1>초보자 운전연수 프로젝트 - "교차로"</h1>
 
 
 <h2>1. 기획 의도</h2>
 <div dir="auto" style="display: flex;">
-<img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://user-images.githubusercontent.com/122762404/233542161-4f88db30-e854-4c74-a2f4-f9b74e76979d.png" style = "width: 40%; height : 45%">
+<img width="1180" alt="스크린샷 2022-12-27 오전 12 09 34" src="https://user-images.githubusercontent.com/122762404/233542161-4f88db30-e854-4c74-a2f4-f9b74e76979d.png" style = "width: 45%; height : 45%">
 </div>
 
 
 <h2>2. 기대 효과</h2>
-<img width="1161" alt="스크린샷 2022-12-27 오전 12 20 31" src="https://user-images.githubusercontent.com/122762404/233542200-77ce5c96-0349-41ca-96ed-3135b044b44d.png" style = "width: 40%; height : 45%">
+<img width="1161" alt="스크린샷 2022-12-27 오전 12 20 31" src="https://user-images.githubusercontent.com/122762404/233542200-77ce5c96-0349-41ca-96ed-3135b044b44d.png" style = "width: 45%; height : 45%">
 
 
 <h2>3. 프로젝트 사용 툴</h2>
-<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233542226-f4123930-0ef0-49ad-9a58-25296f83b56e.png" style = "width: 40%; height : 45%">
+<img width="1160" alt="스크린샷 2022-12-27 오전 12 23 33" src="https://user-images.githubusercontent.com/122762404/233542226-f4123930-0ef0-49ad-9a58-25296f83b56e.png" style = "width: 45%; height : 45%">
 
 
 <h2>4. 퍼블리싱 담당 업무</h2>
